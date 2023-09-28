@@ -5,7 +5,7 @@ from flask import Flask, render_template
 app = Flask(__name__)
 
 # Settings
-api_key = "884a56ecf17a6a0adda0eb6c5ace02af"  # API code, enter yours
+api_key = "------------------------------"  # API code, enter yours
 city = "Warsaw"  # Place to analyze by OpenWeatherMap
 units = "metric"  # Choose units
 
