@@ -26,7 +26,7 @@ Latest additions:
 
 # Using files
 
-The main page file is located under the file `MainPage.html`.
-If you want to start the server, run the `DeployScript.py` script.
-Making changes to variables should happen in the `ConfigPreferences.txt.` file.
-To enter pictures, insert your `.png`, `.bmp`, `.jpg` and similar files into `Multimedia` -> `Photos` -> `[ select location: Header / Body / Footer ]`
+- The main page file is located under the file `MainPage.html`.
+- If you want to start the server, run the `DeployScript.py` script.
+- Making changes to variables should happen in the `ConfigPreferences.txt.` file.
+- To enter pictures, insert your `.png`, `.bmp`, `.jpg` and similar files into `Multimedia` -> `Photos` -> `[ select location: Header / Body / Footer ]`
