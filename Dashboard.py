@@ -63,7 +63,8 @@ def main():
 
             elif choice == '0':
                 # Quit
-                break
+                os.system("taskkill /f /im python.exe")  # WORKS ONLY ON WINDOWS!
+                return "Server turned off."
 
             else:
                 print(Fore.RED + "Invalid choice. Please try again." + Style.RESET_ALL)
