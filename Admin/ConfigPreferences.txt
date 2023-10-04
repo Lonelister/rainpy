@@ -1,4 +1,0 @@
-# Use this file to configure
-# your web page as you like.
-# To see effects, restart
-# the server.
